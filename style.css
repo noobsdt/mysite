@@ -23,6 +23,23 @@ canvas {
   background-position: 50% 50%;
 }
 
+#particles-js h1{
+  color: white;
+  position: fixed;
+  left: 37%;
+  top: 10%;
+  font-size: 80px;
+}
+
+#particles-js #sec p{
+  color: white;
+  position: fixed;
+  left: 35%;
+  top: 28%;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
 /* ---- stats.js ---- */
 /*
 .count-particles{
